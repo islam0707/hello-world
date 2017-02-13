@@ -1,5 +1,6 @@
 #include <iostream>
-main()
+int main()
 {
-  std::cout<<"Qwetty";
+  std::cout<<"Qwetty"<<"privet";
+  
 }
